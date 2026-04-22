@@ -4,3 +4,4 @@ date
 echo "Files in directory:"
 ls
 
+ls
